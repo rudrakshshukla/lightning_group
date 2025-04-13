@@ -72,6 +72,16 @@ This app uses:
 - **Intl** for date formatting
 
 
+## Future Improvements
+
+- Add dark mode and animated weather backgrounds
+- Implement offline support with local caching
+- Add widget testing
+- forecasts with charts
+- Support multiple saved locations
+- multilanguage and multitheme support
+- add differnet flavor like development , staging ,production
+
 ## Demo
 
 https://github.com/rudrakshshukla/lightning_group/blob/main/demo/Screen_recording_20250413_233326.webm
