@@ -71,3 +71,6 @@ This app uses:
 - **Geolocator** for getting device location
 - **Intl** for date formatting
 
+
+## Demo
+
